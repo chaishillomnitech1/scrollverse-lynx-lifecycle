@@ -1,2 +1,9 @@
-# scrollverse-lynx-lifecycle
-Description:A blockchain-based ecosystem centered on rare species conservation, featuring ERC-1155 NFT contracts for Digital Mirror collectibles and ERC-20 WILDcoin for incentivizing conservation efforts. This repository includes Vercel-powered dashboards for habitat tracking, NFT claiming, and stakeholder engagement.
+# ScrollVerse Lynx Lifecycle – Divine Manifestation Launch
+
+**Deploy All Systems:**  
+- Deploy contracts in `contracts/`  
+- Launch PWA in `apps/web/`  
+- Onboard partners via `/docs/DAO-and-Partnerships.md`  
+- Activate DAOs and add Genesis council
+
+KUN FAYAKŪN ☪️
